@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.org/post/thesecond/</loc>
+    <loc>https://crispinread.github.io/starb/post/thesecond/</loc>
     <lastmod>2017-05-07T22:56:57+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/post/hello/</loc>
+    <loc>https://crispinread.github.io/starb/post/hello/</loc>
     <lastmod>2017-05-07T22:56:39+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://crispinread.github.io/starb/about/</loc>
     <lastmod>2017-05-07T22:56:19+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://crispinread.github.io/starb/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://crispinread.github.io/starb/post/</loc>
     <lastmod>2017-05-07T22:56:57+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://crispinread.github.io/starb/</loc>
     <lastmod>2017-05-07T22:56:57+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://crispinread.github.io/starb/tags/</loc>
     <priority>0</priority>
   </url>
   

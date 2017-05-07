@@ -3,7 +3,7 @@
   <channel>
       <title>St Arbuq as test Hugo Site on St Arbuq as test Hugo Site </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://example.org/</link>
+    <link>https://crispinread.github.io/starb/</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>thesecond</title>
-      <link>http://example.org/post/thesecond/</link>
+      <link>https://crispinread.github.io/starb/post/thesecond/</link>
       <pubDate>Sun, 07 May 2017 22:56:57 BST</pubDate>
       
-      <guid>http://example.org/post/thesecond/</guid>
+      <guid>https://crispinread.github.io/starb/post/thesecond/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -27,10 +27,10 @@ chops chsops&lt;/p&gt;
     
     <item>
       <title>hello</title>
-      <link>http://example.org/post/hello/</link>
+      <link>https://crispinread.github.io/starb/post/hello/</link>
       <pubDate>Sun, 07 May 2017 22:56:39 BST</pubDate>
       
-      <guid>http://example.org/post/hello/</guid>
+      <guid>https://crispinread.github.io/starb/post/hello/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -42,10 +42,10 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&g
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://crispinread.github.io/starb/about/</link>
       <pubDate>Sun, 07 May 2017 22:56:19 BST</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://crispinread.github.io/starb/about/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
