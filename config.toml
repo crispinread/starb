@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "St Arbuq as test Hugo Site"
+AuthorName = "Paul Stanbridge"
+publishDir = "docs"
+Tagline = "Hello, new world!"
+SocialLinks = "true"
+theme = "hugo-uno"
